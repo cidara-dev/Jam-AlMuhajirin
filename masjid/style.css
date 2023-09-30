@@ -357,7 +357,7 @@ Image credits: unsplash.com
 	/* background-color:var(--main-bg-color); */
 	/* background-color:#33cccc; */
 	font-size:2vw;
-	padding:0 20vw 0 0;
+	padding:0 15vw 0 0;
 	margin: 0.8vh auto 5vw auto;
 	font-weight:bold;
 	position:relative;
@@ -369,7 +369,7 @@ Image credits: unsplash.com
 	height:6vw;
 	width:20vw;
 	bottom: -5.8vw;
-	right:19vw;
+	right:16.5vw;
 	/* background-color:#e2ad0055; */
 	background-image: url(../img/clock-line.png);
 	background-size: contain;
